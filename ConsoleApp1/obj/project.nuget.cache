@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jqlKVIyBxM7+r2SfpmAp69SCHTLax4qJ985QwIZ2ROsPY0AYvuhCLKSaX9xvYPTWWk7ZLJaeDVXjHn3Kpx+Blg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danii\\source\\repos\\ConsoleAp\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danii\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
