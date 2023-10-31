@@ -17,7 +17,7 @@ public class Student
         this.grade = Grade;
     }
 
-    //Делаем геттеры, для возможности получения отдельных переменных
+    //Делаем геттеры
     public String getName() {
         return name;
     }
